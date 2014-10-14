@@ -6,13 +6,13 @@ The team choose the Messaging application because we believe the project is very
 
 ##Personas
 
-*John Lee
+###John Lee
 
 John Lee is a 22-year-old computer science student at U of T. He moves to Toronto by himself to study at the university, and he is almost finishing his course. He decided to live by himself in his house, since he thinks is better and more organized to not share his home with someone else. John always focused his live actions on organization.
 	John likes to follow that subjects that he is interested into, as well as have contact with groups at university that have something in common with him, that can taking the same course, being in the same college, enjoying the same tastes, etc.
 
 
-*Frank Rogers
+###Frank Rogers
 
 Frank Rogers is a Canadian native, 21 years old, who just started his course in Mechanical Engineering at U of T. Frank lives with his high school friends, who just start their courses as well. Frank knows that he needs his friends, since he is a fresh person at university and he w not have a group of friends yet. Frank is also a shy person when regarding to meet new people.
 Frank is searching for a tool where he can be informed about what is happening at university. He is also want to have contact with new people and interact more with the people of his course. He also has some questions about the lectures on his course that he prefers to ask by computer, since he is to shy to ask in person.
