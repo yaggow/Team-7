@@ -33,15 +33,15 @@ Frank is searching for a tool where he can be informed about what is happening a
 
 ###User Story 1 – P1/D1
 
-As a user, I will like to have full access to the groups I submit to follow.
+As a user, I would like to have full access to the groups I submit to follow.
 
 ###User Story 2 – P1/D1
 
-As a user, I will like to post a message only to a certain group.
+As a user, I would like to post a message only to a certain group.
 
 ###User Story 3 – P1/D1
 
-As user, I will like to reply to the messages that I have information to share or add.
+As user, I would like to colaborate to groups that I have information to share or add.
 
 ###User Story 4 - P1/D1
 
@@ -53,7 +53,7 @@ As a user, I want to be able to subscribe to a group without a difficulty, so I 
 
 ###User Story 6 – P2/D3
 
-As the administrator of the system, I want to be able to filter the content on the groups to guarantee that there is nothing offensive or against the law on the topics, I also want to be able to exclude the access of a user to the system when something that it is against the rules of the system is posted.
+As the system administrator, I want to be able to filter the content on the groups to guarantee that there is nothing offensive or against the law on the topics, I also want to be able to exclude access of a user to the system when something that it is against the rules of the system is posted.
 
 ###User Story 7 – P3/D2
 
@@ -61,20 +61,20 @@ As a user, I want to receive a notification when a new message is sent to one to
 
 ###User Story 8 – P2/D2
 
-As user, I will like to define if my message has an important content to the group, allowing other users to see the message first and identify easier the important contents of the topic.
+As user, I would like to set if my message has an important content to the group, allowing other users to see the message first and identify easier the important contents of the topic.
 
 ##MVP
 
-The messaging software should allow students, Professors, TAs an administration staff to communicate with other members of the university in a more global and easier manner. By dividing the message between groups, people can post related to specific themes, with the guarantee that the users who are interested in the topic will have access to the information. 
+The messaging software should allow students, Professors, TAs and administration staff to communicate with other members of the university in a more global and easier manner. By dividing the message between groups, people can post related to specific themes, with the guarantee that the users who are interested in the topic will have access to the information. 
 
-The system will allow user to post messages to existing topics as well. Posting messages to existing topics allow user to trade important information, interact with each other and guarantee that people who access the topic in the future will have their questions answered regarding to the theme of the topic. 
+The system will allow users to post messages to existing topics as well. Posting messages to existing topics allow them to trade important information, interact with each other and guarantee that people who access the topic in the future will have their questions answered regarding to the theme of the topic. 
 
 Also, we want to allow a smart tool for administration of the topics, which will guarantee that nothing that is offensive or against the law will be on the topics and that the users who broke the rules will be excluded for the system. This way we can guarantee that there will be no problems with the law in the system, and there will be no lawsuits against the providers of the system.
 	
 ##Release and Iteration Planning
 
-For the first release, the user stories 1, 2, 3, 4 and 5 will be implemented. These user stories are the base of the project, because of that the implementation of them mean that we will have a minimum structure for the product.
+For the first release, the user stories 1, 2, 3, 4 and 5 will be implemented. These user stories are the core of the project, because of that the implementation of them mean that we will have a minimum structure for the product.
 
-The user stories with Priority 3 (P3) and difficulty 3 (D3) are excluded from the first release. Since the user stories with Priority 3 (P3) are not vital to the well work of the software, they are not necessary to the first release. User stories with difficulty 3 (D3) were defined to not contain vital implementation to the system, since they require a long time to be implemented properly.
+The user stories with Priority 3 (P3) and Difficulty 3 (D3) are excluded from the first release. Since the user stories with Priority 3 (P3) are not vital to the well work of the software, they are not necessary to the first release. User stories with difficulty 3 (D3) were defined to not contain vital implementation to the system, since they require a long time to be implemented properly.
 
 For the first week of iteration, the user stories 1, 2 and 3 should be implemented. Since these user stories do not contain high difficulty and have a connected implementation, the team should not have problem to implement them in one week.
