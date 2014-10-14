@@ -2,7 +2,7 @@
 
 ##Project Choice
 
-The team chose the Messaging application because we believe the project is very useful for us as students. Time Management is popular known as a problem for most of university students. Having all the schedules of different courses in different sites, pages and applications can result in a disorganized schedule, which is not helpful for the important task that time management is for students. The group decided for this project after balanced which project shows more interest in execution, also we choose a project that deals with a problem that the members of the groups believe is crucial to enhance the academic performance of university students, promoting a substantial benefit to student's live.
+The team chose the Messaging application because we believe the project is very useful for us as students. Time Management is popular known as a problem for most of university students. Having all the schedules of different courses in different sites, pages and applications can result in a disorganized schedule, which is not helpful for the important task that time management is for students. The group decided for this project after balanced which project shows more interest in execution, also we have chosen a project that deals with a problem that members of groups believe is crucial to enhance academic performance of university students, promoting a substantial benefit to student's live.
 
 ##Personas
 
@@ -10,7 +10,7 @@ The team chose the Messaging application because we believe the project is very 
 
 John Lee is a 22-year-old computer science student at U of T. He moves to Toronto by himself to study at university, and he is almost finishing his course. He decided to live by himself in his house, since he thinks it is better and more organized to not share his home with someone else. John always focused his live actions on organization.
 
-John likes to follow subjects that he is interested into, as well as have contact with groups at university that have something in common with him, that can taking the same course, being in the same college, enjoying the same tastes, etc.
+John likes to follow subjects that he is interested into, as well as have contact with groups at university that have something in common with him such as taking the same course, being in the same college, enjoying the same tastes, etc.
 
 ###Frank Rogers
 
