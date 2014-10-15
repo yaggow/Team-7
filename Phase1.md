@@ -83,8 +83,8 @@ For the first week of iteration, the user stories 1, 2 and 3 should be implement
 
 ![](https://github.com/yaggow/Team-7/blob/master/images/user-card.jpg)
 ![](https://github.com/yaggow/Team-7/blob/master/images/administrator-card.jpg)
-![](https://github.com/yaggow/Team-7/blob/master/images/message-card.jpg)
 ![](https://github.com/yaggow/Team-7/blob/master/images/topic-card.jpg)
 ![](https://github.com/yaggow/Team-7/blob/master/images/notification-card.jpg)
+![](https://github.com/yaggow/Team-7/blob/master/images/message-card.jpg)
 
 
