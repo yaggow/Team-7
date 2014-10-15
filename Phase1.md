@@ -53,7 +53,7 @@ As a user, I want to be able to subscribe to a group without a difficulty, so I 
 
 ###User Story 6 – P2/D3
 
-As the system administrator, I want to be able to filter the content on the groups to guarantee that there is nothing offensive or against the law on the topics, I also want to be able to exclude access of a user to the system when something that it is against the rules of the system is posted.
+As the system administrator, I want to be able to filter content on groups to guarantee that there is nothing offensive or against the law on the topics, I also want to be able to exclude access of a user to the system when something that it is against the rules of the system is posted.
 
 ###User Story 7 – P3/D2
 
