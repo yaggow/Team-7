@@ -78,3 +78,13 @@ For the first release, the user stories 1, 2, 3, 4 and 5 will be implemented. Th
 The user stories with Priority 3 (P3) and Difficulty 3 (D3) are excluded from the first release. Since the user stories with Priority 3 (P3) are not vital to the well work of the software, they are not necessary to the first release. User stories with difficulty 3 (D3) were defined to not contain vital implementation to the system, since they require a long time to be implemented properly.
 
 For the first week of iteration, the user stories 1, 2 and 3 should be implemented. Since these user stories do not contain high difficulty and have a connected implementation, the team should not have problem to implement them in one week.
+
+##CRC cards
+
+![](https://github.com/yaggow/Team-7/blob/master/images/user-card.jpg)
+![](https://github.com/yaggow/Team-7/blob/master/images/administrator-card.jpg)
+![](https://github.com/yaggow/Team-7/blob/master/images/message-card.jpg)
+![](https://github.com/yaggow/Team-7/blob/master/images/topic-card.jpg)
+![](https://github.com/yaggow/Team-7/blob/master/images/notification-card.jpg)
+
+
